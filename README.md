@@ -30,4 +30,4 @@ pip install phonenumbers
 
 ## Enjoy Unveiling Phone Number Secrets! 🌟
 
-Feel free to share and modify this code, but please remember to credit [@devsnp](https://t.me/devsnp) for their ingenious contribution. Happy extracting! 📞✨
+Feel free to share and modify this code, but please remember to credit [S Y N A X](https://t.me/OGsnx) for their ingenious contribution. Happy extracting! 📞✨
