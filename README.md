@@ -10,13 +10,13 @@ pip install phonenumbers
 
 📞🌍✨🔍
 
-**Engineered by NepCoder @devsnp.**
+**Made by Synax @OGsnx.**
 
 ## How to Use:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Nepcoder1/PhoneNumber-Details-Extractor.git
+   git clone https://github.com/SYNAX07/PhoneNumber-Details-Extractor.git
    ```
 
 2. **Run the Code:**
